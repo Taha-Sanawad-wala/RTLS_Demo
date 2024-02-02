@@ -1,4 +1,4 @@
-# Django_Ecommerce_Shop
+# RTLS DEMO
 ## **STEPS to run the following project:**
 
 1-->Download the zip file
